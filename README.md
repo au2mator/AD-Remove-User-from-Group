@@ -2,12 +2,15 @@
 
 au2mator - Self Service Portal is providing a Frontend to trigger your Microsoft Automation Engines like
 
-- System Center Orchestrator
+- <a href="https://www.au2mator.com/orchestrator" target="_blank">System Center Orchestrator</a>
+- <a href="https://www.au2mator.com/AzureAutomation" target="_blank">Azure Automation</a>
+- <a href="https://www.au2mator.com/Powershell" target="_blank">Powershell</a>
 - System Center SMA
-- Azure Automation
-- Powershell
 
-This Script can be used to remove a User from Group
+This Script can be used to remove a User from Group!
+
+Get more Ideas for Active Directory Self Service: https://au2mator.com/Active-Directory/
+
 
 # Getting Started
 
@@ -15,6 +18,23 @@ This Script can be used to remove a User from Group
 2.	Configure your PowerShell Script Path: https://au2mator.com/documentation/how-to-configure-powershell-automation/
 3.	Download and save this PowerShell Script to you au2mator Powershell Script Path
 4.	Follow the blog Post: https://au2mator.com/remove-user-from-group-active-directory-self-service-with-au2mator/
+5.  Want to store your Credentials in a Secure File: https://au2mator.com/documentation/powershell-credentials/
+
+
+# Demo
+![Demo](/Demo/AD-RemoveUserfromGroup_FULL.gif)
+
+
+# Changelog
+
+v1.1 - 22.08.2020
+ - Added Stored Credentials: https://au2mator.com/documentation/powershell-credentials/
+ - Readme
+ - Added SMTP Port
+
+
+v1.0 - 03.02.2020
+ - Initial Release
 
 
 # Contribute
